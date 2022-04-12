@@ -1,0 +1,3 @@
+﻿  piskvorky.cpp
+C:\Users\domin\OneDrive\Plocha\piskvorky\piskvorky\piskvorky.cpp(10,1): warning C4326: Návratový typ main by měl být int místo void.
+  piskvorky.vcxproj -> C:\Users\domin\OneDrive\Plocha\piskvorky\x64\Debug\piskvorky.exe
